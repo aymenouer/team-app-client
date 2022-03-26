@@ -2,6 +2,8 @@
 
 [![Code Size](https://img.shields.io/github/languages/code-size/aymenouer/team-app-client)](https://img.shields.io/github/languages/top/aymenouer/team-app-client)
 [![Language](https://img.shields.io/github/languages/top/aymenouer/team-app-client)](https://img.shields.io/github/languages/top/aymenouer/team-app-client)
+[![Stars](https://img.shields.io/github/stars/aymenouer/team-app-client?style=social)](https://img.shields.io/github/stars/aymenouer/team-app-client?style=social)
+
 
 :star: Star on GitHub — it motivates Me a lot!
 
