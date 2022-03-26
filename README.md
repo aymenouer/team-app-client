@@ -36,7 +36,7 @@ it's a respensive app Using : nodejs , graphql, apollo , jest , reactjs ,apollo-
 
 _Easily set up a local development environment!_
 
-Run the server on [localhost:4000](http://localhost:4000):
+Run the server on [localhost:4000](http://localhost:4000)
 
 - clone
 - `npm install`
