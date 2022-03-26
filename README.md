@@ -13,13 +13,11 @@ it's a respensive app Using : nodejs , graphql, apollo , jest , reactjs ,apollo-
 ## APP DESGIN DESKTOP
 |Desktop - thumbnail view| Desktop - list view |
 | --- | --- |
-|![Desktop - thumbnail view](https://user-images.githubusercontent.com/49178153/160249455-0f4e1e5a-768e-4236-ac96-490b65a4f547.png )|
-|![Desktop - list view ](https://user-images.githubusercontent.com/49178153/160249451-5ee067c0-a462-4e7e-9a33-4777f1fc5760.png  )||
+|![Desktop - thumbnail view](https://user-images.githubusercontent.com/49178153/160249455-0f4e1e5a-768e-4236-ac96-490b65a4f547.png )| ![Desktop - list view ](https://user-images.githubusercontent.com/49178153/160249451-5ee067c0-a462-4e7e-9a33-4777f1fc5760.png  )||
 
 <!-- App DESGIN MOBILE -->
 ## APP DESGIN MOBILE
 |Mobile - thumbnail view| Mobile - list view |
 | --- | --- |
-|![13 Pro - thumbnail view](https://user-images.githubusercontent.com/49178153/160249457-e7492bdd-c824-452f-9ff3-d29e323c24b7.png)|
-|![13 Pro - list view](https://user-images.githubusercontent.com/49178153/160249460-dcfd1a52-da65-4a5a-9157-487991653561.png)||
+|![13 Pro - thumbnail view](https://user-images.githubusercontent.com/49178153/160249457-e7492bdd-c824-452f-9ff3-d29e323c24b7.png)| ![13 Pro - list view](https://user-images.githubusercontent.com/49178153/160249460-dcfd1a52-da65-4a5a-9157-487991653561.png)||
 
