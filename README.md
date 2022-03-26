@@ -43,8 +43,11 @@ Run the server on [localhost:4000](http://localhost:4000)
 - `npm run dev`
 
 **Start coding!** 🎉
+
 <br/>
-<img src="https://user-images.githubusercontent.com/49178153/160251312-b49f5109-7737-431b-9b9e-7c0942688990.png" alt="carbon" width="50%" height="50%"/>
+
+<img src="https://user-images.githubusercontent.com/49178153/160251312-b49f5109-7737-431b-9b9e-7c0942688990.png" alt="carbon" width="60%" height="60%"/>
+
 <br/>
 
 ## Feedback 
