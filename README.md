@@ -9,6 +9,8 @@
 
 it's a respensive app Using : nodejs , graphql, apollo , jest , reactjs ,apollo-client , apollographql , apollo-server , vite
 
-|App Desgin| | | |
-|:---:||:---:||:---:||:---:|
+|App Desgin|
+|:---:|
+|[![Aymen Ouerghui's github stats](https://github-readme-stats.vercel.app/api?username=aymenouer&count_private=true&show_icons=true&theme=dracula)](https://github.com/SelimHorri/github-readme-stats)|
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=aymenouer)||
 
