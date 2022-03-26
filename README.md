@@ -5,9 +5,51 @@
 
 :star: Star on GitHub — it motivates Me a lot!
 
-[Team App](https://thunderous-sundae-a37e28.netlify.app/) is app that show you random users from  public [API](https://randomuser.me/api/?results=50) to get data for 50 users. 
+[Team App](https://thunderous-sundae-a37e28.netlify.app/) is app that show you random users from  public [API](https://randomuser.me/api/?results=50) to get data for 50 users and it's a respensive app.
+---
 
-it's a respensive app Using : nodejs , graphql, apollo , jest , reactjs ,apollo-client , apollographql , apollo-server , vite
+<h3>Technologies:</h3>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th><strong>Frameworks</strong></th>
+    <th>Software</th>
+  </tr>
+  <tr>
+    <th><a href="https://nodejs.dev/"><img src="https://img.shields.io/badge/-NodeJS-313131?style=flat-square&labelColor=313131&logo=node.js&logoColor=white&color=313131"></img></a></th>
+     <th><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-React-313131?style=flat-square&labelColor=313131&logo=react&logoColor=white&color=313131"></img></a></th>
+    <th><a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/-Visual Studio Code-313131?style=flat-square&labelColor=313131&logo=visual-studio-code&logoColor=white&color=313131"></img></a></th>
+  </tr>
+
+  <tr>
+    <th><a href="https://www.w3schools.com/html/html_intro.asp"><img src="https://img.shields.io/badge/-HTML5-313131?style=flat-square&labelColor=313131&logo=html5&logoColor=white&color=313131"></img></a></th>
+  </tr>
+
+  <tr>
+    <th><a href="https://www.w3schools.com/css/css_intro.asp"><img src="https://img.shields.io/badge/-CSS3-313131?style=flat-square&labelColor=313131&logo=css3&logoColor=white&color=313131"></img></a></th>
+  </tr>
+ 
+  <tr>
+    <th><a href="https://www.javascript.com"><img src="https://img.shields.io/badge/-Javascript-313131?style=flat-square&labelColor=313131&logo=javascript&logoColor=white&color=313131"></img></a></th>
+  </tr>
+  
+  <tr>
+    <th><a href="https://graphql.org"><img src="https://img.shields.io/badge/-GraphQL-313131?style=flat-square&labelColor=313131&logo=graphql&logoColor=white&color=313131"></img></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://jestjs.io/fr/"><img src="https://img.shields.io/badge/-Jest-313131?style=flat-square&labelColor=313131&logo=jest&logoColor=white&color=313131"></img></a></th>
+  </tr>  
+  <tr>
+    <th><a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/-Vite-313131?style=flat-square&labelColor=313131&logo=vite&logoColor=white&color=313131"></img></a></th>
+  </tr>    
+</table>
+
+
+
+
+
+
+Using : , apollo  ,apollo-client , apollographql , apollo-server , vite
 
 <!-- App DESGIN  -->
 ## APP DESGIN 
