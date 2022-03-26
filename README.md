@@ -19,3 +19,14 @@ it's a respensive app Using : nodejs , graphql, apollo , jest , reactjs ,apollo-
 ||
 
 ## [Demo 💥](https://thunderous-sundae-a37e28.netlify.app/)
+
+## Features
+
+- Switch between grid and list view 🌟
+- Sorting by **name** (ascending and descending) 🔄
+- Search by **name** functionality 🔍
+- Handle empty or error states ✔️
+- Lazy loading of the cards (load the cards after the app has initiated)
+- No UI frameworks used (ex. Bootstrap, Material)
+- Loader icon while loading 🔄
+- Unit testing for the major functionalities (coverage within reason)
