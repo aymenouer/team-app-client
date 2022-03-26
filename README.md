@@ -15,6 +15,9 @@
 
 <!-- App DESGIN  -->
 ## APP DESGIN 
+|Desktop - thumbnail view| Desktop - list view |
+| --- | --- |
+|![Desktop - thumbnail view](https://user-images.githubusercontent.com/49178153/160249455-0f4e1e5a-768e-4236-ac96-490b65a4f547.png )| ![Desktop - list view ](https://user-images.githubusercontent.com/49178153/160249451-5ee067c0-a462-4e7e-9a33-4777f1fc5760.png  )
 
 |Mobile - thumbnail view| Mobile - list view |
 | --- | --- |
