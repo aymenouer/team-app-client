@@ -45,12 +45,6 @@ Run the server on [localhost:4000](http://localhost:4000):
 **Start coding!** 🎉
 
 
-
-
-
-
-
-<br/>
 <br/>
 
 ## Feedback 
@@ -58,7 +52,6 @@ Any questions or suggestions?
 
 You are welcome to discuss it on:
 
-[![Gitter](https://img.shields.io/gitter/room/aymenouer/team-app-client)](https://img.shields.io/gitter/room/aymenouer/team-app-client)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-ouerghi-249632146/)
 
 <br/>
