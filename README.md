@@ -30,3 +30,31 @@ it's a respensive app Using : nodejs , graphql, apollo , jest , reactjs ,apollo-
 - No UI frameworks used (ex. Bootstrap, Material)
 - Loader icon while loading 🔄
 - Unit testing for the major functionalities (coverage within reason)
+
+
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+
+## Feedback 
+Any questions or suggestions?
+
+You are welcome to discuss it on:
+
+[![Gitter](https://img.shields.io/gitter/room/aymenouer/team-app-client)](https://img.shields.io/gitter/room/aymenouer/team-app-client)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/aymen-ouerghi-249632146/)
+
+<br/>
+<br/>
+
+
+
+
+
