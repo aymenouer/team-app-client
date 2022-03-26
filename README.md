@@ -32,7 +32,17 @@ it's a respensive app Using : nodejs , graphql, apollo , jest , reactjs ,apollo-
 - Unit testing for the major functionalities (coverage within reason)
 
 
+## Development
 
+_Easily set up a local development environment!_
+
+Run the server on [localhost:4000](http://localhost:4000):
+
+- clone
+- `npm install`
+- `npm run dev`
+
+**Start coding!** 🎉
 
 
 
